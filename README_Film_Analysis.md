@@ -26,7 +26,6 @@ Furthermore, sticking to recent trends, we only analyzed films from the past ten
 
 Eliminating clutter and increasing visibility, we start with an initial, aerial view of the market.
 
-
 ![ROI:Genre](/assets/ROI:Genre_8f8bc704y.png)
 Looking at profit margins across markets, we start to notice our first trends.
 
