@@ -26,27 +26,27 @@ Furthermore, sticking to recent trends, we only analyzed films from the past ten
 
 Eliminating clutter and increasing visibility, we start with an initial, aerial view of the market.
 
-![ROI:Genre](/assets/ROI:Genre_8f8bc704y.png)
+![Genre/ROI overview](images/2020/07/genre-roi-overview.png)
+
 Looking at profit margins across markets, we start to notice our first trends.
 
 ![Gross ROI Genre](/assets/Gross%20ROI%20Genre.png)
 
-Across both domestic and international markets, a small number of genres show a consistent high rate of return: drama, mystery, horror, and romance.
+Across both domestic and international markets, a small number of genres show a consistent high rate of return: Drama, Mystery, Horror, and Thriller.
 
 Reorienting the visualization of genre/ROI, we see our initial findings confirmed. However, this still doesn't provide a look at performance over time.
 
-![Reoriented distribution of genre](/assets/Reoriented%20distribution%20of%20genre.png)
 
-
+![Corrected Genre ROI ](images/2020/07/corrected-genre-roi.png)
 ## A Closer Look
 
-![Production budget Genre](/assets/Production%20budget%20Genre.png)
+![Corrected Production Budget ](images/2020/07/corrected-production-budget.png)
 
 Aside from a few larger budget films, we can clearly see a high concentration of low budget productions with a high ROI.
 
-![ROI genre line](/assets/ROI%20genre%20line.png)
+![Corrected Genre Trend](images/2020/07/corrected-genre-trend.png)
 
-Our suspected high return genres (Drama, Mystery, Horror, Romance) show a consistent ROI over 400%. Moreover, in the last three years, these genres have become more profitable.
+Our suspected high return genres (Drama, Mystery, Horror, Thriller) show a consistent ROI over 400%. Moreover, in the last three years, these genres have maintained steady profit margins.
 
 ## Conclusions
 
